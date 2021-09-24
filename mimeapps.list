@@ -1,0 +1,28 @@
+[Default Applications]
+text/x-shellscript=text.desktop;
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-TL7820.desktop
+text/plain=text.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+image/png=img.desktop;
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+application/rss+xml=rss.desktop
+video/x-matroska=video.desktop
+x-scheme-handler/lbry=lbry.desktop
+inode/directory=file.desktop
+x-scheme-handler/figma=figma-linux.desktop
+x-scheme-handler/postman=Postman.desktop
+message/rfc822=userapp-Thunderbird-TL7820.desktop
+x-scheme-handler/eclipse+command=_home_moliendo_Downloads_dbeaver_.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-TL7820.desktop;
+message/rfc822=userapp-Thunderbird-TL7820.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+
